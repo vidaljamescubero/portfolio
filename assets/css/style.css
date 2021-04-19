@@ -520,6 +520,21 @@ body {
     transition: 0.75s ease-in-out;
 }
 
+@media only screen and (max-width: 425px) {
+    #proj_details {
+        transform: translateY(95px);
+    }
+    
+    #proj_details2 {
+        transform: translateY(170px);
+    }
+    
+    #proj_details3 {
+        transform: translateY(250px);
+    }
+    
+}
+
 #proj_details3 p{
     color:white
 }

@@ -405,7 +405,7 @@ body {
     max-height: 245px;
     margin: 15px;
     display: inline-flex;
-    background-image: url(/public/assets/images/capstone1.png);
+    background-image: url(../images/capstone1.png);
     background-size: cover;
     position: relative;
     border-radius: 5px;
@@ -420,7 +420,7 @@ body {
     max-height: 245px;
     margin: 15px;
     display: inline-flex;;
-    background-image: url(/public/assets/images/capstone2.png);
+    background-image: url(../images/capstone2.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -437,7 +437,7 @@ body {
     max-height: 245px;
     margin: 15px;
     display: inline-flex;
-    background-image: url(/public/assets/images/capstone3.png);
+    background-image: url(../images/capstone3.png);
     background-size: cover;
     background-position: center;
     position: relative;

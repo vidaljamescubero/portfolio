@@ -507,7 +507,7 @@ body {
     bottom:0;
     padding: 10px;
     color: white;
-    transform: translateY(100px);
+    transform: translateY(120px);
     transition: 0.75s ease-in-out;
 }
 
@@ -516,7 +516,7 @@ body {
     bottom:0;
     padding: 10px;
     color: black;
-    transform: translateY(160px);
+    transform: translateY(190px);
     transition: 0.75s ease-in-out;
 }
 
@@ -545,7 +545,7 @@ body {
 }
 
 #project_link2:hover #proj_details2{
-    transform: translateY(-60px);
+    transform: translateY(-40px);
     color: white;
 }
 
@@ -554,7 +554,7 @@ body {
 }
 
 #project_link3:hover #proj_details3{
-    transform: translateY(0px);
+    transform: translateY(10px);
     color: white
 }
 
@@ -562,6 +562,7 @@ body {
     background:rgba(0, 0, 0, 0.6)
     
 }
+
 
 
 #contact_container {
